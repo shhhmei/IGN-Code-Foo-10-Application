@@ -1,2 +1,4 @@
 # IGN-Code-Foo-10-Application
-Submission for IGN Code Foo 10 (2022). 
+Hello IGN Team! 
+
+Thank you so much for this opportunity to apply for an internship with your team! 
