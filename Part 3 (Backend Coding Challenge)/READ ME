@@ -1,6 +1,14 @@
 READ ME
+Joshua Mei
+Backend Coding Challenge: 
 
-** General Things to Know ** 
+Prompt: 
+1. Using this CSV, build a service to pull/read the content of the file, and store it in a SQL database. Explain how you are storing, sanitizing, normalizing, and indexing the data.
+2. Build an API service that utilizes your database. Include at least 3 endpoints that allow for clients to request data based on how you decided to store it. In addition, incorporate data/response filtering and/or sorting based on additional parameters supplied by the client utilizing your endpoint(s). Explain your decisions and methods of implementation.
+
+
+General Explanations:
+
 
 Database Parsing Explanation (How I stored, sanitized, normalised, and indexed data):
 
